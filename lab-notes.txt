@@ -1,0 +1,15 @@
+Azure Lab – Day 1
+
+Setup:
+- Set up GitHub repository
+- Configured Git on Ubuntu
+- Connected local machine to GitHub
+
+Learning:
+- Learned about authentication using personal access tokens
+- Successfully committed and pushed first file
+
+Next Steps:
+- Build Azure VM
+- Configure networking (VNet, NSG)
+- Practice SSH access and security
